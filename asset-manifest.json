@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-tea/static/css/main.47ac3e1c.chunk.css",
+    "main.js": "/react-tea/static/js/main.cd019e6c.chunk.js",
+    "main.js.map": "/react-tea/static/js/main.cd019e6c.chunk.js.map",
+    "runtime-main.js": "/react-tea/static/js/runtime-main.8357feaf.js",
+    "runtime-main.js.map": "/react-tea/static/js/runtime-main.8357feaf.js.map",
+    "static/js/2.ba56f96d.chunk.js": "/react-tea/static/js/2.ba56f96d.chunk.js",
+    "static/js/2.ba56f96d.chunk.js.map": "/react-tea/static/js/2.ba56f96d.chunk.js.map",
+    "index.html": "/react-tea/index.html",
+    "static/css/main.47ac3e1c.chunk.css.map": "/react-tea/static/css/main.47ac3e1c.chunk.css.map",
+    "static/js/2.ba56f96d.chunk.js.LICENSE.txt": "/react-tea/static/js/2.ba56f96d.chunk.js.LICENSE.txt",
+    "static/media/T-HOUSE.43c1bc4e.png": "/react-tea/static/media/T-HOUSE.43c1bc4e.png",
+    "static/media/index.css": "/react-tea/static/media/Tfooter.64a096cf.png",
+    "static/media/TeaBanner.56bcbb85.jpg": "/react-tea/static/media/TeaBanner.56bcbb85.jpg",
+    "static/media/Toffer1.d5883a82.png": "/react-tea/static/media/Toffer1.d5883a82.png",
+    "static/media/Toffer2.53dd91d3.png": "/react-tea/static/media/Toffer2.53dd91d3.png",
+    "static/media/Toffer3.897975c9.jpg": "/react-tea/static/media/Toffer3.897975c9.jpg",
+    "static/media/place.ab85b563.png": "/react-tea/static/media/place.ab85b563.png",
+    "static/media/search-icon.077696d4.svg": "/react-tea/static/media/search-icon.077696d4.svg",
+    "static/media/star.d0cbd94e.png": "/react-tea/static/media/star.d0cbd94e.png",
+    "static/media/star1.190d870d.png": "/react-tea/static/media/star1.190d870d.png",
+    "static/media/tealogo.b492c7ba.png": "/react-tea/static/media/tealogo.b492c7ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8357feaf.js",
+    "static/js/2.ba56f96d.chunk.js",
+    "static/css/main.47ac3e1c.chunk.css",
+    "static/js/main.cd019e6c.chunk.js"
+  ]
+}
